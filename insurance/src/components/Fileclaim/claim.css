@@ -18,7 +18,7 @@ main {
 
   button:hover {
     background-color: #513f3f;
-    color: rgb(152, 119, 119);
+    color: rgba(124, 119, 152, 0.685);
   }
 
   button:hover {
