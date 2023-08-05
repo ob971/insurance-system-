@@ -10,6 +10,7 @@ main {
   }
   
 
+  
   button {
     padding: 10px 20px;
     font-size: 16px;
@@ -23,7 +24,7 @@ main {
   }
 
   button:hover {
-    background-color: #fe4a4a;
+    background-color: #a05656;
     color: rgb(187, 167, 167);
   }
 
